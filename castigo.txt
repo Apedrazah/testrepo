@@ -1,0 +1,4 @@
+Sistema de recompensas y de castigo.
+Castigo=miedo y evitación.
+Recompensa genera deseo.
+Recompensa refuerza evitación. (el cerebro de buda).
